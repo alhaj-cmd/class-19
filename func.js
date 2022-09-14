@@ -20,7 +20,7 @@ var data=dataItem[dataItems];
 
 // enumerable
 
-// var propertice = Object.keys(dataItem);
-// console.log(propertice)
+var propertice = Object.keys(dataItem);
+console.log(propertice)
 var propertice = Object.entries(dataItem);
 console.log(propertice)
